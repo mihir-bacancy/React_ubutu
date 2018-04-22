@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481925519204",
+    "firebase_url": "https://form-c18a0.firebaseio.com",
+    "project_id": "form-c18a0",
+    "storage_bucket": "form-c18a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481925519204:android:cffe9c39d07bad40",
+        "android_client_info": {
+          "package_name": "com.HetaliShah.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481925519204-5orm9hf9fsgs1uutd56317g5tiudgn78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksRirD5WB5_0-tGNaUr_N4pEsknfiz64"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]

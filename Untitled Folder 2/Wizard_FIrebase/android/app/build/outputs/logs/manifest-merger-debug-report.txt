@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:1:1-56:12
+	package
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [Form:react-native-firebase:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-firebase/unspecified/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:8:5-77
+MERGED from [com.facebook.react:react-native:0.53.3] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:8:22-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:12:5-84
+	android:required
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:12:58-82
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:13:5-94
+	android:required
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:13:68-92
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:13:19-67
+uses-sdk
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:14:5-16:41
+MERGED from [Form:react-native-vector-icons:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Form:react-native-firebase:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-firebase/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Form:react-native-fetch-blob:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fetch-blob/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Form:react-native-fbsdk:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fbsdk/unspecified/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.53.3] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.8.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks-license/11.8.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-license/11.8.0/AndroidManifest.xml:4:5-43
+	android:targetSdkVersion
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:16:9-38
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:15:9-35
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:18:5-54:19
+MERGED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:11:5-21:19
+MERGED from [Form:react-native-fetch-blob:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fetch-blob/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [Form:react-native-fbsdk:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fbsdk/unspecified/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.31.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.31.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.31.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.31.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.31.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.31.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.react:react-native:0.53.3] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks-license/11.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-license/11.8.0/AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:21:7-39
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.31.0/AndroidManifest.xml:28:18-44
+	android:allowBackup
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:20:7-33
+	android:icon
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:22:7-41
+	android:theme
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:23:7-38
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:19:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:24:9-25:61
+	android:value
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:25:20-59
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:24:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:27:9-30:54
+MERGED from [com.facebook.android:facebook-common:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:30:19-51
+	android:configChanges
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:28:19-129
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:27:19-63
+activity#com.facebook.CustomTabActivity
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:31:9-40:20
+	android:exported
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:33:17-40
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:32:17-62
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:34:13-39:29
+action#android.intent.action.VIEW
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:37:27-75
+data
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:38:17-75
+	android:scheme
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:38:23-72
+activity#com.form.MainActivity
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:42:9-52:18
+	android:label
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:44:9-41
+	android:windowSoftInputMode
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:46:9-51
+	android:configChanges
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:45:9-79
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:43:9-37
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:47:9-51:25
+action#android.intent.action.MAIN
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:48:13-65
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:48:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:49:13-73
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:49:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:50:6-70
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:50:14-68
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:53:7-84
+	android:name
+		ADDED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:53:17-81
+provider#android.support.v4.content.FileProvider
+ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [Form:react-native-image-picker:unspecified] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/AndroidManifest.xml:18:17-67
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.31.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/AndroidManifest.xml:40:13-70
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/src/main/AndroidManifest.xml:1:1-56:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/AndroidManifest.xml:54:25-77
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/AndroidManifest.xml:24:13-58

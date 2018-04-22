@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.31.0_56db0d5f8a32853f7f58dd1ae0f697eac2f7d908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-firebase/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1943130d1d4243933bdc0e99d6160057ee9ace05">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-firebase-unspecified_e46beb2527e5737b54c4354a07cb2a61a29f6924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.2_6133997f820bf2eea7e266c40be2843cf55d95ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_2f33e43ff50c2a653d0eae9052ff41b88b0493d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.8.0_27ebf46ee46a1879f41f054ff0d3c504ffee97aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5cf7a162ed4c6a163c80c5f6e4077a7f68ffd33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.8.0_662063e1f43b8e10be4972693612872886764676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.8.0_39502475b93c4e2b0aa83335b5c024161be06180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-vector-icons-unspecified_c8a416eba85569c87db8d0b7dc3544bb67842d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="730a856582c1725f85da73af9144f3982e243584">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-fetch-blob-unspecified_57480669f1fe7ab323d2459422ba6b3463be1103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-11.8.0_02fd5d83ac27133a53d23b5a67d1975851dd5ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2fce4830c242eb3335bddc97b1ca4e858d4de69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-11.8.0_7925d2ba8e675a323482ad46c97307853c66847a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_7ea4fb046b87a4ed03f621650e975d33138a2a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6d879a7f2b3f2bbac071109f33efd7edcd377eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.31.0_a0cc16c79db1c4b70f086ca7a2398f074a57433e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.31.0_42664affbb2fee3213964197326cd9657b4bde2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.2_1d8d28ae1a4cf652bb848ec8f056ace00aa4b8f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2fce4830c242eb3335bddc97b1ca4e858d4de69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.31.0_5b9d430085bb513774006438ff828ae1b86bb3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.2_ebe55fbb87a631873c921fc3944dd681a4eab3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.8.0_9cf37f235606fabd73505ad339927dc6c9f61478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c81bb58e2f48d3a352717b02db18e5f197603a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="730a856582c1725f85da73af9144f3982e243584">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-fetch-blob-unspecified_57480669f1fe7ab323d2459422ba6b3463be1103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2762b38599646d32a5fb9e26b2ec6fd37e4f41f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_43abd32d1f796d30648ed67a7caca2dfa4156dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-firebase/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1943130d1d4243933bdc0e99d6160057ee9ace05">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-firebase-unspecified_e46beb2527e5737b54c4354a07cb2a61a29f6924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4849c401c680b362774cbda707f5ba90d8228980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5cf7a162ed4c6a163c80c5f6e4077a7f68ffd33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ff072237ae15a373eb95378c31dea15be52338c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_7ea4fb046b87a4ed03f621650e975d33138a2a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.8.0_4f4b0d3337b514cd6266e5ab5580206c054c2800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_f7f123425942d4c391fe703ddee259fbc747c715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.2_165433ac27673ba1d12f3cc12f2ae959281a357a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.2_b3b4d0be78a44bb180c36d02fbfb93ae9245a35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_dfc9367749208f3495ec01b1a83e16f4c450ba77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.8.0_1286d5a7d3b182572bc802c53503098305ec8a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-11.8.0_e83099221b2de49214da9c309cd4f95e8081e1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.31.0_c2fcacff8af4ed1667a439cf881bc4ddf65eae4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.2_3b520f8c83a57315537ff06851f20506554faad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.31.0_74216f3e502a6ff0326517eaf8890a39af50a616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.8.0_39502475b93c4e2b0aa83335b5c024161be06180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.8.0_27ebf46ee46a1879f41f054ff0d3c504ffee97aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_2f33e43ff50c2a653d0eae9052ff41b88b0493d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.2_3557a121478443c7fc8e1bfa635df4e442f1af45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4849c401c680b362774cbda707f5ba90d8228980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.8.0_9cf37f235606fabd73505ad339927dc6c9f61478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_cf91b4bb0a8cca99898356a6377b608de3bfb01d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-11.8.0_e83099221b2de49214da9c309cd4f95e8081e1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-11.8.0_1e96bb7be3dad986e7ede1eb51a4563a5e62a89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_929712e6ca341629c4fea2a870a414a37f4faaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.8.0_1286d5a7d3b182572bc802c53503098305ec8a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.2_160b1fb40c49aac863876ad2c792cce07bc55838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.2_4b54f9949083ebbb4c7ad9bb185310dc5ab57345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.8.0_3bf757169ae1ec3d09f7d18d409786350534332c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c4c83bcf8172f93cda62ddbfa1c9991c2e21bd0">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-image-picker-unspecified_0828c05baf1f5670495ac78f2282fe87d4d690eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_99c9d2953f17c3640cc50a24c714954788bffb43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_dfc9367749208f3495ec01b1a83e16f4c450ba77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ff072237ae15a373eb95378c31dea15be52338c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.8.0_6866b9048dccf4dc1b3f83248551e18225e7c289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_694c67d5bbe1414dbad72399dcabc7bdbe777a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.8.0_6866b9048dccf4dc1b3f83248551e18225e7c289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_0dc5cd8893acd6385134c12fe9e00989ce8aa774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.8.0_4f4b0d3337b514cd6266e5ab5580206c054c2800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_929712e6ca341629c4fea2a870a414a37f4faaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_8555f503502f85c0f573315081aee63b81b4906b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.31.0_da76ae1bd0c77d988fdbdaf1a7650b2319f20b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-11.8.0_7925d2ba8e675a323482ad46c97307853c66847a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_887823d897518caba75c5069644ad8705df6fa65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dc3554fb41c6cc1232d8b3ee452142c3a477e967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.2_68ddf4f8a1404e2da7f7e623d695712d0a8cfdff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/common-1.0.3_faa53c8d9dabb89ed26eac4eb0761ee0c5cac221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2762b38599646d32a5fb9e26b2ec6fd37e4f41f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_887823d897518caba75c5069644ad8705df6fa65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_43abd32d1f796d30648ed67a7caca2dfa4156dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.2_23a783bd5093aea3264d3b25073a98f644c062a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.2_538a3057f39d36117eddc05ffac4f56640b2734b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c81bb58e2f48d3a352717b02db18e5f197603a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.3_d0291fcaeac545c38b08be19c4315042629ccfb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b22edd323b6662f88522818aac005bf2bc86c30">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-fbsdk-unspecified_8a7a03a14732e21162377a3b63faf6de0a02d37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6d879a7f2b3f2bbac071109f33efd7edcd377eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.31.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49d6e981cef2eb91ff98aa6004fadb3bd757790d">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.31.0_2f639ee34221d53ffa97bd311ac088a3644bfa04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.8.0_3bf757169ae1ec3d09f7d18d409786350534332c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-vector-icons-unspecified_c8a416eba85569c87db8d0b7dc3544bb67842d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-11.8.0_02fd5d83ac27133a53d23b5a67d1975851dd5ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/Form/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c4c83bcf8172f93cda62ddbfa1c9991c2e21bd0">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/Form-react-native-image-picker-unspecified_0828c05baf1f5670495ac78f2282fe87d4d690eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dc3554fb41c6cc1232d8b3ee452142c3a477e967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_694c67d5bbe1414dbad72399dcabc7bdbe777a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_99c9d2953f17c3640cc50a24c714954788bffb43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-11.8.0_1e96bb7be3dad986e7ede1eb51a4563a5e62a89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.8.0_662063e1f43b8e10be4972693612872886764676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/home/hetali/Desktop/Progrmas/Wizard_FIrebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_0dc5cd8893acd6385134c12fe9e00989ce8aa774.jar" />
+    </item>
+
+</items>
