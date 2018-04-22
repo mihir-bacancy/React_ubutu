@@ -1,0 +1,39 @@
+{
+  "name": "2tube-nodeapi",
+  "version": "0.0.1",
+  "description": "Node Rest API for app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bacancy/2Tube-NodeAPI.git"
+  },
+  "keywords": [
+    "2Tube"
+  ],
+  "author": "Bacancy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bacancy/2Tube-NodeAPI/issues"
+  },
+  "homepage": "https://github.com/bacancy/2Tube-NodeAPI#readme",
+  "dependencies": {
+    "aws-sdk": "2.80.0",
+    "body-parser": "1.17.2",
+    "connect-busboy": "0.0.2",
+    "crypto": "0.0.3",
+    "ejs": "2.5.6",
+    "express": "4.15.3",
+    "moment": "2.18.1",
+    "mongoose": "4.10.8",
+    "nodemailer": "4.0.1",
+    "nodemon": "1.11.0",
+    "rand-token": "0.4.0",
+    "request": "2.81.0",
+    "request-promise": "4.2.1",
+    "sha1": "1.1.1",
+    "thumbler": "1.1.1-1"
+  }
+}

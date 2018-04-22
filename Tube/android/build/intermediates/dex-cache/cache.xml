@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_929712e6ca341629c4fea2a870a414a37f4faaec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_8d27ac8920c63cc6b12a17f50615d6e24b0cae94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_ff8fd2e5905b5f2000f0cf3fed1735881104bc58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.16.1_7581418e16efac8b97c318eb3229b7d33bb150d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6d879a7f2b3f2bbac071109f33efd7edcd377eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-vector-icons-unspecified_0f9f36d6dfb503e184e27a7fa9c4a8a2f4f3d058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="282e2e38a44bdbfe385067db6ff7f2c1db7c80ac">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-image-picker-unspecified_7778491c6e2582e8ff63586f339bf2cfcaa38bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_86bc4bce5ac46458b0b36f02121d0d84cc16e2a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_ad687bef926c76b7e0f1bace5765313b882fcc15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_eaf1f7b4b78b5ae884188234d20c62683a612ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6fecdcc766c121b80cd780481e5a3b03049fa8ac">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-video-unspecified_646df6e4007f487011f14d7a9aa2c423a0388f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2fce4830c242eb3335bddc97b1ca4e858d4de69c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_10d0a1b2cb1bfc5ca112ba6fc8095ec89a05e244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d356c882d35964d17cd8526f0f604c23c454e6c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_608d87aaeef83dd2226096cea4293ea076ab671b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_2dd42702294be92c412f9604955773ff09f8d99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_9f4619a6be3b0ffeb066f3c20ec0bc91acbbb351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_ed3166a34b1406e029bc9641f4f6d43f80a97087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f551ba101a0a13ce9b3f727bd47f722fa6592ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1889544f8616b9d6ca14a0dded84a30ac5dfaf94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e613c52e8d98353db58c32641a1db22dbb998d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5c9950566abb069e9daf7ca40e52b868d14ca369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_e733ed21765ee721c1741fe432ce1117b1e8d66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c81bb58e2f48d3a352717b02db18e5f197603a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_65b0faefb923a70c189ebc00f89cb7662f67073e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_cba81d2d73132f0148c4c47da3245d4ae88c1b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-orientation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1877d18d6b8ba94e3ae3e0f3b5800d2eda9e83f1">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-orientation-unspecified_63f6633e640107c5347eb32e6332b08489e11ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47528ab25843ef28c9d465410137b9a161ad7fc9">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-camera-unspecified_fff23728b2c74ad393c885a08d2e2a24b4cf2a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_ee8745ec562657e847314d6beb8ae1cbefa58a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-fetch-blob/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="730a856582c1725f85da73af9144f3982e243584">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-fetch-blob-unspecified_a310f9507958b410b0ba51d4f14babc6d088bca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_8a6f0991570aab7fb03911abf05f3dd135481620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_0730a8cec5aa9c00dabf91c9e266d915fd6e5169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_75b52fa7826db912324bcbedc5f0f580910f2fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e40456a49c6bb3aad75cbaec6558f18740e967fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_5752bd32df5da65b5186929549dce948d8894953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_962203908970038e856229c1f7ddcd36fe141887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_2f9946871a84a0fbf2a9b846bb5565aa69b6230a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/Tube/react-native-facebook-login/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3af5059daf8c53edf39d8a23543a630969eb711">
+        <dex dex="/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/pre-dexed/debug/Tube-react-native-facebook-login-unspecified_5d2316690609fed596cf250c5975bd58ecc27166.jar" />
+    </item>
+
+</items>

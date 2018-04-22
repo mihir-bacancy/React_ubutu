@@ -1,0 +1,308 @@
+[
+  {
+    "title": "Aerobics",
+    "isActive": true,
+    "courses" : [{
+      "title": "Arobic 1",
+      "userId": null,
+      "description": "Course A-1 Desc",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video A-1 (A)",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+        "free": true
+      },{
+        "title": "Video A-1 (B)",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113407.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113407.mp4",
+        "free": true
+      }]
+    },{
+      "title": "Arobic 2",
+      "userId": null,
+      "description": "Course A-2 Desc",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113104.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113104.mp4",
+        "free": true
+      }]
+    }]
+  },
+  {
+    "title": "Bodyweight",
+    "isActive": true,
+    "courses" : [{
+      "title": "Bodyweight 1",
+      "userId": null,
+      "description": "Bodyweight 1",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113407.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113407.mp4",
+        "free": true
+      }]
+    },{
+      "title": "Bodyweight 2",
+      "userId": null,
+      "description": "Bodyweight 2",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113104.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113104.mp4",
+        "free": true
+      }]
+    }]
+  },
+  {
+    "title": "CrossFit",
+    "isActive": true,
+    "courses" : [{
+      "title": "CrossFit 1",
+      "userId": null,
+      "description": "CrossFit 1",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1)",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113407.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113407.mp4",
+        "free": true
+      }]
+    },{
+      "title": "CrossFit 2",
+      "userId": null,
+      "description": "CrossFit 2",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113104.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113104.mp4",
+        "free": true
+      }]
+    }]
+  },
+  {
+    "title": "Dance",
+    "isActive": true,
+    "courses" : [{
+      "title": "Dance 1",
+      "userId": null,
+      "description": "Dance 1",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113407.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113407.mp4",
+        "free": true
+      }]
+    },{
+      "title": "Dance 2",
+      "userId": null,
+      "description": "Dance 2",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113104.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113104.mp4",
+        "free": true
+      }]
+    }]
+  },
+  {
+    "title": "Gymnastics‎",
+    "isActive": true,
+    "courses" : [{
+      "title": "Gymnastics‎ 1",
+      "userId": null,
+      "description": "Gymnastics‎ 1",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113407.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113407.mp4",
+        "free": true
+      }]
+    },{
+      "title": "Gymnastics‎ 2",
+      "userId": null,
+      "description": "Gymnastics‎ 2",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113104.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113104.mp4",
+        "free": true
+      }]
+    }]
+  },
+  {
+    "title": "Yoga",
+    "isActive": true,
+    "courses" : [{
+      "title": "Yoga 1",
+      "userId": null,
+      "description": "Yoga 1",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114423.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114423.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113407.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113407.mp4",
+        "free": true
+      }]
+    },{
+      "title": "Yoga 2",
+      "userId": null,
+      "description": "Yoga 2",
+      "price": 0,
+      "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+      "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+      "paid": false,
+      "identifier": "product_buy_course",
+      "product": "product_buy_course",
+      "videos":[{
+        "title": "Video 1",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_114314.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_114314.mp4",
+        "free": true
+      },{
+        "title": "Video 2",
+        "userId": null,
+        "image": "https://s3.amazonaws.com/2tube.bucket/thumb/20170811_113104.jpeg",
+        "video": "https://s3.amazonaws.com/2tube.bucket/video/20170811_113104.mp4",
+        "free": true
+      }]
+    }]
+  }
+]

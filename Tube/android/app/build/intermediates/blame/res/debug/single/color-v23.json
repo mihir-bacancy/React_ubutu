@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hetali/Desktop/Progrmas/2Tube/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/hetali/Desktop/Progrmas/2Tube/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/hetali/Desktop/Progrmas/Tube/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
